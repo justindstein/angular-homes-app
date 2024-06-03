@@ -1,4 +1,6 @@
 # Angular Homes App
+Simple Angular web app that displays real estate listings from the [Learning Angular](https://www.youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF) tutorial.
+
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
