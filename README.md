@@ -18,3 +18,6 @@
 - Run the application 
 
   `ng serve`
+
+- Run HTTP REST mock service
+  ` json-server --watch db.json`
